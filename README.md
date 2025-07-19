@@ -55,3 +55,9 @@ STEP 2: Post-processing:
 5. Heartbeat Regularity Checks:
       -Uses RR averages and limits
       -Detects irregular heartbeats & missed QRS complexes
+
+
+<img width="174" height="464" alt="image" src="https://github.com/user-attachments/assets/838c0068-572e-458b-b14b-fe13c792aa3e" />
+
+
+

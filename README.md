@@ -60,4 +60,17 @@ STEP 2: Post-processing:
 <img width="174" height="464" alt="image" src="https://github.com/user-attachments/assets/838c0068-572e-458b-b14b-fe13c792aa3e" />
 
 
+RESULT AND DISCUSSION: 
+The MIT-BIH Arrhythmia Database stands as a monumental archive, housing 48 half-hour snippets of two- channel ambulatory ECG recordings. The recordings, originating between 1975 and 1979, showcase the collaborative efforts of the BIH Arrhythmia Laboratory, delving into the cardiac intricacies of 47 subjects. Notably, 23 recordings were serendipitously selected from a vast pool of 4000 24-hour ambulatory ECG recordings, drawn from a diverse cohort of inpatients (60%) and outpatients (40%) at Boston's Beth Israel Hospital. Complementing this, an additional 25 recordings were intentionally chosen to spotlight less common yet clinically significant arrhythmias, adding a unique dimension to the dataset.The digitization process, executed at 360 samples per second per channel with 11-bit resolution, ensures a meticulous capture of ECG signals, providing a high-fidelity representation of cardiac dynamics. The dataset's robustness is further accentuated by the involvement of two or more cardiologists independently annotating each record, culminating in a rich repository of approximately 110,000 reference annotations for each beat.
 
+This comprehensive MIT-BIH Arrhythmia Database, in its entirety, has been accessible since PhysioNet's inception in September 1999. The release of the remaining 23 signal files,previously exclusive to the MIT-BIH Arrhythmia Database CD- ROM, in February 2005, marked a significant stride in open access to this invaluable resource. For deeper insights, researchers can explore the extensive MIT-BIH Arrhythmia Database Directory, providing a wealth of supplementary information. This repository not only chronicles cardiac nuances but also stands as a testament to collaborative research, fostering advancements in the understanding and treatment of cardiac rhythm disorders.
+
+SAMPLE OUTPUTS:
+<img width="552" height="155" alt="image" src="https://github.com/user-attachments/assets/639c6aa2-d758-478c-989e-5ca85adc0c0d" />
+<img width="552" height="155" alt="image" src="https://github.com/user-attachments/assets/b2badb67-56b5-4cfb-85ca-cca289ecdca4" />
+<img width="552" height="155" alt="image" src="https://github.com/user-attachments/assets/336e6307-3f71-40de-9379-9ba8bb0821fb" />
+<img width="552" height="115" alt="image" src="https://github.com/user-attachments/assets/a7267192-42fa-47a4-b86d-f52d7cafecaa" />
+<img width="552" height="155" alt="image" src="https://github.com/user-attachments/assets/ab705f2d-9672-4027-882d-5b743ce81472" />
+<img width="552" height="155" alt="image" src="https://github.com/user-attachments/assets/0d863467-a72a-42f8-844a-31b213fa691a" />
+<img width="552" height="155" alt="image" src="https://github.com/user-attachments/assets/94085f33-c7a0-4458-b725-8d79f32b2573" />
+<img width="552" height="155" alt="image" src="https://github.com/user-attachments/assets/60ba57bb-3f6f-48a6-87fa-3a90e940d0d4" />

@@ -66,6 +66,7 @@ The MIT-BIH Arrhythmia Database stands as a monumental archive, housing 48 half-
 This comprehensive MIT-BIH Arrhythmia Database, in its entirety, has been accessible since PhysioNet's inception in September 1999. The release of the remaining 23 signal files,previously exclusive to the MIT-BIH Arrhythmia Database CD- ROM, in February 2005, marked a significant stride in open access to this invaluable resource. For deeper insights, researchers can explore the extensive MIT-BIH Arrhythmia Database Directory, providing a wealth of supplementary information. This repository not only chronicles cardiac nuances but also stands as a testament to collaborative research, fostering advancements in the understanding and treatment of cardiac rhythm disorders.
 
 SAMPLE OUTPUTS:
+
 <img width="552" height="155" alt="image" src="https://github.com/user-attachments/assets/639c6aa2-d758-478c-989e-5ca85adc0c0d" />
 <img width="552" height="155" alt="image" src="https://github.com/user-attachments/assets/b2badb67-56b5-4cfb-85ca-cca289ecdca4" />
 <img width="552" height="155" alt="image" src="https://github.com/user-attachments/assets/336e6307-3f71-40de-9379-9ba8bb0821fb" />
